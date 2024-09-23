@@ -51,4 +51,4 @@ print(f"Virginia population in {years[0]}: {population_start}")
 print(f"Virginia population in {years[-1]}: {population_end}")
 print(f"Population growth rate over the past 5 years: {growth_rate:.2f}%")
 --Q4.7 I did not modify the prompt. 
---Q4.8 ChatGPT provides accurate responses for a good majortiy of the requests made for this lab. 
+--Q4.8 ChatGPT provides accurate responses sometimes, but not all the time. 
